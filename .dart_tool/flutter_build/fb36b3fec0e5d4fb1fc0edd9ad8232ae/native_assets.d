@@ -1,0 +1,1 @@
+ /Users/mac/Desktop/app/magicai/.dart_tool/flutter_build/fb36b3fec0e5d4fb1fc0edd9ad8232ae/native_assets.yaml: 

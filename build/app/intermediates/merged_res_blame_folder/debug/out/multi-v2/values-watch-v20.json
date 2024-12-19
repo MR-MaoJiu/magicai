@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.magicai.app-mergeDebugResources-39:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/3a04377ab98aaf9189ccddcb951bae89/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
